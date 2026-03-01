@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp()
     }
 
+    // Main activity code. Connecting frames and fragments
+
 
 }

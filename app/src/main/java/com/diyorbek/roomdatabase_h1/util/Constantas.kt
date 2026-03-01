@@ -4,3 +4,5 @@ import android.text.Editable
 
 object Constantas {
 }
+
+val abd = "c"
